@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> Description the project.
+> Description of Hello Microverse.
 This is the "Hello Microverse" Project with just Html and Css
 
 ## Built With
