@@ -1,40 +1,30 @@
-Hello Microverse
-This is the week 1 day 2 project of Microverse.
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Built With
-HTML and CSS
+# Project Name
 
-Getting Started
-You can just run npm clone https://github.com/heintayzar-hm/hello-microverse.git
+> Description the project.
+This is the "Hello Microverse" Project with just Html and Css
+
+## Built With
+
+Html and Css
+
+
+## Getting Started
+
+npm clone https://github.com/heintayzar-hm/hello-microverse.git
+
 
 To get a local copy up and running follow these simple example steps.
 
-Prerequisites
+### Prerequisites
+You have basic knowledge of Html, Css
+### Setup
 
+### Install
+npm install
+### Usage
 
-Install
-npm install 
-
-Run tests
-You have to manually go to file. I dont't add any local development server.
-
-Authors
-Hein Tay Zar
-
-
-GitHub: @heintayzar-hm
-Twitter: @heintayzarhm
-LinkedIn: https://www.linkedin.com/in/hein-tay-zar
-
-
-Feel free to check the issues page.
-
-Show your support
-Give a star if you like this project!
-
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
-memo License
-This project is MIT licensed.
+### Run tests
+You can just go index.html file
+### Deployment
