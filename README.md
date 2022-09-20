@@ -16,7 +16,7 @@ Install
 npm install 
 
 Run tests
-npm run dev
+You have to manually go to file. I dont't add any local development server.
 
 Authors
 Hein Tay Zar
