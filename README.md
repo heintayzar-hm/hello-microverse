@@ -26,5 +26,5 @@ npm install
 ### Usage
 
 ### Run tests
-You can just go index.html file
+You can just go index.html file and run it.
 ### Deployment
